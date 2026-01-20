@@ -1,0 +1,10 @@
+{
+  "name": "local",
+  "baseUrl": "https://playwright.dev",
+  "headless": false,
+  "defaultTimeout": 5000,
+  "trace": true,
+  "screenshotOnFailure": true,
+  "video": true,
+  "browser": "chromium"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qa",
+  "baseUrl": "https://playwright.dev",
+  "headless": true,
+  "defaultTimeout": 30000,
+  "trace": true,
+  "screenshotOnFailure": true,
+  "video": true,
+  "browser": "chromium"
+}
